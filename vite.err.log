@@ -1,0 +1,64 @@
+[2m12:25:35[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mInvalidCharacterError[22m: Failed to execute 'createElement' on 'Document': The tag name provided ('AI-driven categorization and error-free tracking for all your financial transactions.') is not a valid name.
+[39m > completeWork node_modules/react-dom/cjs/react-dom-client.development.js:12610:41
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > completeUnitOfWork node_modules/react-dom/cjs/react-dom-client.development.js:17777:18
+ > performUnitOfWork node_modules/react-dom/cjs/react-dom-client.development.js:17658:10
+ > workLoopSync node_modules/react-dom/cjs/react-dom-client.development.js:17469:40
+ > renderRootSync node_modules/react-dom/cjs/react-dom-client.development.js:17450:10
+ > performWorkOnRoot node_modules/react-dom/cjs/react-dom-client.development.js:16583:34
+ > performWorkOnRootViaSchedulerTask node_modules/react-dom/cjs/react-dom-client.development.js:18957:6
+ > MessagePort.performWorkUntilDeadline node_modules/scheduler/cjs/scheduler.development.js:45:47
+
+[2m12:25:35[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mAn error occurred in the <AI-driven categorization and error-free tracking for all your financial transactions.> component.
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries.
+
+[2m12:28:03[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mInvalidCharacterError[22m: Failed to execute 'createElement' on 'Document': The tag name provided ('AI-driven categorization and error-free tracking for all your financial transactions.') is not a valid name.
+[39m > completeWork node_modules/react-dom/cjs/react-dom-client.development.js:12610:41
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > completeUnitOfWork node_modules/react-dom/cjs/react-dom-client.development.js:17777:18
+ > performUnitOfWork node_modules/react-dom/cjs/react-dom-client.development.js:17658:10
+ > workLoopSync node_modules/react-dom/cjs/react-dom-client.development.js:17469:40
+ > renderRootSync node_modules/react-dom/cjs/react-dom-client.development.js:17450:10
+ > performWorkOnRoot node_modules/react-dom/cjs/react-dom-client.development.js:16583:34
+ > performWorkOnRootViaSchedulerTask node_modules/react-dom/cjs/react-dom-client.development.js:18957:6
+ > MessagePort.performWorkUntilDeadline node_modules/scheduler/cjs/scheduler.development.js:45:47
+
+[2m12:28:03[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mAn error occurred in the <AI-driven categorization and error-free tracking for all your financial transactions.> component.
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries.
+
+[2m12:28:23[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mInvalidCharacterError[22m: Failed to execute 'createElement' on 'Document': The tag name provided ('AI-driven categorization and error-free tracking for all your financial transactions.') is not a valid name.
+[39m > completeWork node_modules/react-dom/cjs/react-dom-client.development.js:12610:41
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > completeUnitOfWork node_modules/react-dom/cjs/react-dom-client.development.js:17777:18
+ > performUnitOfWork node_modules/react-dom/cjs/react-dom-client.development.js:17658:10
+ > workLoopSync node_modules/react-dom/cjs/react-dom-client.development.js:17469:40
+ > renderRootSync node_modules/react-dom/cjs/react-dom-client.development.js:17450:10
+ > performWorkOnRoot node_modules/react-dom/cjs/react-dom-client.development.js:16583:34
+ > performWorkOnRootViaSchedulerTask node_modules/react-dom/cjs/react-dom-client.development.js:18957:6
+ > MessagePort.performWorkUntilDeadline node_modules/scheduler/cjs/scheduler.development.js:45:47
+
+[2m12:28:23[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mAn error occurred in the <AI-driven categorization and error-free tracking for all your financial transactions.> component.
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries.
+
+[2m12:29:44[22m [31m[1m[vite][22m[39m [31m[2m(client)[22m[39m [31m[Unhandled error] [1mInvalidCharacterError[22m: Failed to execute 'createElement' on 'Document': The tag name provided ('AI-driven categorization and error-free tracking for all your financial transactions.') is not a valid name.
+[39m > completeWork node_modules/react-dom/cjs/react-dom-client.development.js:12610:41
+ > runWithFiberInDEV node_modules/react-dom/cjs/react-dom-client.development.js:871:29
+ > completeUnitOfWork node_modules/react-dom/cjs/react-dom-client.development.js:17777:18
+ > performUnitOfWork node_modules/react-dom/cjs/react-dom-client.development.js:17658:10
+ > workLoopSync node_modules/react-dom/cjs/react-dom-client.development.js:17469:40
+ > renderRootSync node_modules/react-dom/cjs/react-dom-client.development.js:17450:10
+ > performWorkOnRoot node_modules/react-dom/cjs/react-dom-client.development.js:16583:34
+ > performWorkOnRootViaSchedulerTask node_modules/react-dom/cjs/react-dom-client.development.js:18957:6
+ > MessagePort.performWorkUntilDeadline node_modules/scheduler/cjs/scheduler.development.js:45:47
+
+[2m12:29:44[22m [33m[1m[vite][22m[39m [33m[2m(client)[22m[39m [2m[console.warn] [22mAn error occurred in the <AI-driven categorization and error-free tracking for all your financial transactions.> component.
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://react.dev/link/error-boundaries to learn more about error boundaries.
+
